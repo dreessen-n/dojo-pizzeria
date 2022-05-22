@@ -31,7 +31,7 @@ console.log(pizzaMine2);
 // I copied it here so I can work thru how to do it later
 // I did NOT solve the bonus - just to be clear
 // NOT MY CODE - here for learning purpose
-// though I did change online of the code on line 96
+// though I did change a line of the code on line 96
 // the min was set to 0, I changed to 1 so at least 
 // one topping would come out.
 
